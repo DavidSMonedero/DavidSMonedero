@@ -28,5 +28,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,git,js,ts,angular,mongodb,postgres,mysql,postman,figma" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,git,postman" alt="skills" />
+</p>
+<h3 align="left">Databases</h3>
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="skills" />
 </p>
