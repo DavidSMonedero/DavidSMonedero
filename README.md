@@ -30,6 +30,17 @@
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=java,spring,docker,git,postman" alt="skills" />
 </p>
+<h3 align="left">AEM Ecosystem:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=flat&logo=adobe&logoColor=white" alt="Adobe AEM" />
+  <img src="https://img.shields.io/badge/AEM_Cloud_Service-FF0000?style=flat&logo=adobe&logoColor=white" alt="AEM Cloud Service" />
+  <img src="https://img.shields.io/badge/AEM_Core_Components-0052CC?style=flat&logo=adobe&logoColor=white" alt="AEM Core Components" />
+  <img src="https://img.shields.io/badge/Apache_Sling-D22128?style=flat&logo=apache&logoColor=white" alt="Apache Sling" />
+  <img src="https://img.shields.io/badge/Apache_Jackrabbit_Oak-D22128?style=flat&logo=apache&logoColor=white" alt="Apache Jackrabbit Oak" />
+  <img src="https://img.shields.io/badge/OSGi_/_Felix-000000?style=flat&logo=java&logoColor=white" alt="OSGi Felix" />
+  <img src="https://img.shields.io/badge/HTL_/_Sightly-FF0000?style=flat&logo=adobe&logoColor=white" alt="HTL / Sightly" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Apache Maven" />
+</p>
 <h3 align="left">Databases</h3>
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="skills" />
